@@ -3,10 +3,30 @@
 /***************/
 
 /* Color Palette */
+.color-1 {
+    background: red;
+}
 
+.color-2 {
+    background: blue;   
+}
+
+.color-3 {
+    background: green;   
+}
 
 /* Textures or Patterns*/
+.pattern-1 {
+    background: url(../img/concrete_seamless.png);
+}
 
+.pattern-2 {
+    background: url(../img/footer_lodyas.png);
+}
+
+.pattern-3 {
+    background: url(../img/stardust.png);
+}
 
 /* Imagery */
 
@@ -15,7 +35,9 @@
 
 
 /* Typography */
-
+h1, h2 {
+    font-family: 'Wallpoet', cursive;
+}
 
 /* Forms */
 
